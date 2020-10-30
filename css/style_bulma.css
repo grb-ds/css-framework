@@ -4,3 +4,15 @@
     background-image: url("../images/exercise-1-hero2.png");
     background-size: cover;
 }
+
+.has-text-danger-dark {
+    color: #cc0f35 !important;
+}
+
+.has-text-weight-bold {
+    font-weight: 700 !important;
+}
+
+.has-text-link-dark {
+    color: #2160c4 !important;
+}
