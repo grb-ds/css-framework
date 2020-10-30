@@ -17,6 +17,14 @@
     color: #2160c4 !important;
 }
 
+.has-text-centered {
+    text-align: center !important;
+}
+
 .pt-6 {
     padding-top: 3rem !important;
+}
+
+.pb-6 {
+    padding-bottom: 3rem !important;
 }
