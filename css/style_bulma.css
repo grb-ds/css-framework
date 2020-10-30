@@ -16,3 +16,7 @@
 .has-text-link-dark {
     color: #2160c4 !important;
 }
+
+.pt-6 {
+    padding-top: 3rem !important;
+}
