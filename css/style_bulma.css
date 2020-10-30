@@ -1,0 +1,6 @@
+@import '../node_modules/bulma/css/bulma.css';
+
+.hero-image {
+    background-image: url("../images/exercise-1-hero2.png");
+    background-size: cover;
+}
